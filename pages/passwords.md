@@ -10,4 +10,5 @@
 
 - [Get a passphrase](https://getapassphrase.com/)
 - [Firefox Monitor](https://monitor.firefox.com/)
+- [Have I Been Pwned?](https://haveibeenpwned.com/)
 - [KeePass](https://keepass.info/)
