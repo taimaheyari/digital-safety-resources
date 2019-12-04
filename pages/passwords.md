@@ -9,4 +9,5 @@
 ## أدوات
 
 - [Get a passphrase](https://getapassphrase.com/)
+- [Firefox Monitor](https://monitor.firefox.com/)
 - [KeePass](https://keepass.info/)
