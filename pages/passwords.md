@@ -12,3 +12,5 @@
 - [Firefox Monitor](https://monitor.firefox.com/)
 - [Have I Been Pwned?](https://haveibeenpwned.com/)
 - [KeePass](https://keepass.info/)
+- [Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
+- [Bitwarden](https://bitwarden.com/)
