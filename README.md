@@ -1,24 +1,15 @@
 # JOSA Digital Security List of Resources
 
-### 1.2 Protecting PCs from viruses, malware and phishing attacks
+## اليوم الأول
 
-- https://www.phishing.org/
-- https://www.phishing.org/what-is-phishing
-- https://phishingquiz.withgoogle.com/
+- [1.1 مقدمة](pages/)
+- [1.2 الحماية من الفيروسات والبرمجيات الخبيثة وهجمات التصيّد](pages/device-protection.md)
+- [1.3 كلمات المرور](pages/passwords.md)
+- [1.4 كلمات المرور](pages/device-protection.md)
 
-### 1.3 Passwords
+## اليوم الثاني
 
-- https://www.passworddragon.com/password-vs-passphrase
-- https://whatisapassphrase.com/
-- https://getapassphrase.com/
-- https://www.howtogeek.com/240255/password-managers-compared-lastpass-vs-keepass-vs-dashlane-vs-1password
-
-### 2.2 Safe broadcasting and publishing during disturbances
-
-- https://onionshare.org/
-- https://send.firefox.com/
--
-
-### 2.3a Digital safety in the event of pre-trial detention or search of electronic devices without warrant or probable cause
-
-- https://ssd.eff.org/en#index
+- [1.1 مقدمة](https://www.phishing.org/what-is-phishing)
+- [1.2 الحماية من الفيروسات والبرمجيات الخبيثة وهجمات التصيّد](https://www.phishing.org/what-is-phishing)
+- [1.3 كلمات المرور](https://www.phishing.org/what-is-phishing)
+- [1.4 كلمات المرور](https://www.phishing.org/what-is-phishing)
