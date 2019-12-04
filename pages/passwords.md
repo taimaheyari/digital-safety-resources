@@ -2,7 +2,7 @@
 
 ## المواد التعليمية
 
-- [كلمات المرور](files/passwords.pdf)
+- [كلمات المرور](../files/passwords.pdf)
 
 ## مصادر
 
