@@ -2,9 +2,9 @@
 
 ## مصادر
 
-- [ما هو التصيّد؟](https://whatisapassphrase.com/)
-- [ما هو التصيّد؟](https://www.passworddragon.com/password-vs-passphrase)
-- [ما هو التصيّد؟](https://www.howtogeek.com/240255/password-managers-compared-lastpass-vs-keepass-vs-dashlane-vs-1password)
+- [من كلمة المرور إلى عبارة المرور](https://whatisapassphrase.com/)
+- [كلمات المرور× عبارات المرور](https://www.passworddragon.com/password-vs-passphrase)
+- [مقارنه بين برامج إدارة كلمات المرور](https://www.howtogeek.com/240255/password-managers-compared-lastpass-vs-keepass-vs-dashlane-vs-1password)
 
 ## أدوات
 
