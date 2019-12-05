@@ -1,4 +1,6 @@
-# [Jordan Open Source Association | الجمعية الأردنية للمصدر المفتوح](https://jordanopensource.org/)
+# Jordan Open Source Association | الجمعية الأردنية للمصدر المفتوح
+
+-- [JOSA Website](https://jordanopensource.org/)
 
 ## Digital Security Training | دورة تدريبية في الأمن الرقمي
 
