@@ -9,6 +9,7 @@
 ### ما هي البصمة الرقمية؟
 
 - [Browser Leaks](https://browserleaks.com/)
+- [Am I Unique?](https://amiunique.org/)
 - [Unique Machine](http://uniquemachine.org/)
 
 ### التصفح الآمن
