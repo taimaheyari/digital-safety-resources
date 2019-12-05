@@ -27,6 +27,4 @@
 
 ### الشبكات الخاصة الافتراضية
 
-- [الشبكات الخاصة الافتراضية](https://protonvpn.com/)
-
-##
+- [ProtonVPN](https://protonvpn.com/)
