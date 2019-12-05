@@ -21,6 +21,11 @@
 - [Firefox Send](https://send.firefox.com/)
 - [OnionShare](https://onionshare.org/)
 
+### البحث الآمن
+
+- [Qwant](https://www.qwant.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
+
 ### التواصل الآمن
 
 - [Signal](https://www.signal.org/)
