@@ -1,6 +1,7 @@
 # Jordan Open Source Association | الجمعية الأردنية للمصدر المفتوح
 
--- [JOSA Website](https://jordanopensource.org/)
+- [JOSA Website](https://jordanopensource.org/)
+- [TinyURL](https://tinyurl.com/internews-safety)
 
 ## Digital Security Training | دورة تدريبية في الأمن الرقمي
 
